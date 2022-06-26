@@ -30,10 +30,10 @@ Then simply point your Grassclipper to the ɢᴇɴꜱʜɪɴɪᴍᴘᴀᴄᴛ.exe
 ## Version 2.6
 ~60 GB unzipped <br>
 [File](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/GenshinImpact_2.6.0.zip) <br>
-[English Language File](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_English(US)_2.6.0.zip)
-[Japanese Language File]( https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_Japanese_2.6.0.zip)
-[Chinese Language File]( https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_Chinese_2.6.0.zip)
-[Korean Language File]( https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_Korean_2.6.0.zip)
+[English Language File](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_English(US)_2.6.0.zip) <br>
+[Japanese Language File]( https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_Japanese_2.6.0.zip) <br>
+[Chinese Language File]( https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_Chinese_2.6.0.zip) <br>
+[Korean Language File]( https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/Audio_Korean_2.6.0.zip) <br>
 [Resources](https://github.com/Koko-boya/Grasscutter_Resources/tree/0e99a59218a346c2d56c54953f99077882de4a6d) <br>
 [Grasscutter Branch](https://github.com/Grasscutters/Grasscutter/releases/tag/v1.1.2-dev)
 
